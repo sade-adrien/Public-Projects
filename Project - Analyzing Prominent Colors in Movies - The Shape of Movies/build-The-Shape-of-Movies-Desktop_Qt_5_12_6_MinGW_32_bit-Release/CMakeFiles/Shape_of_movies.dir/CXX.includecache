@@ -1,0 +1,146 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common.h
+cmath
+-
+cassert
+-
+cstring
+-
+string
+-
+limits
+-
+iostream
+-
+cstdio
+-
+cstdlib
+-
+fstream
+-
+iterator
+-
+algorithm
+-
+list
+-
+ctime
+-
+sys/times.h
+-
+unistd.h
+-
+Common/Base.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Base.h
+Common/FArray.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/FArray.h
+Common/FVector.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/FVector.h
+Common/FMatrix.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/FMatrix.h
+Common/Color.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Color.h
+Common/Array.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Array.h
+Common/Coords.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Coords.h
+Common/MultiArray.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/MultiArray.h
+Common/Random.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Random.h
+Common/Timer.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Timer.h
+Common/IO.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/IO.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Array.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Base.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Color.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Coords.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/FArray.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/FMatrix.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/FVector.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/IO.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/MultiArray.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Random.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Common/Timer.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics.h
+Graphics/ConfigGraphics.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/ConfigGraphics.h
+Graphics/Types.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Types.h
+Graphics/Interface.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Interface.h
+Graphics/Draw.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Draw.h
+Graphics/Events.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Events.h
+Graphics/ImageIO.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/ImageIO.h
+Graphics/Mesh.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Mesh.h
+Graphics/Window.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Window.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/ConfigGraphics.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Draw.h
+Types.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Types.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Events.h
+Types.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Types.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/ImageIO.h
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Interface.h
+stdarg.h
+-
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Mesh.h
+Types.h
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Types.h
+vector
+-
+cstdlib
+-
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Types.h
+Imagine/Common.h
+-
+
+C:/Program Files (x86)/Imagine++/include/Imagine/Graphics/Window.h
+
+D:/The Shape of Movies/The Shape of Movies/main.cpp
+outils.h
+D:/The Shape of Movies/The Shape of Movies/outils.h
+
+D:/The Shape of Movies/The Shape of Movies/outils.h
+Imagine/Graphics.h
+-
+unistd.h
+-
+iostream
+-
+cmath
+-
+

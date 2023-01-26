@@ -1,0 +1,3 @@
+D:/The Shape of Movies/build-The-Shape-of-Movies-Desktop_Qt_5_12_6_MinGW_32_bit-Release/CMakeFiles/Shape_of_movies.dir
+D:/The Shape of Movies/build-The-Shape-of-Movies-Desktop_Qt_5_12_6_MinGW_32_bit-Release/CMakeFiles/edit_cache.dir
+D:/The Shape of Movies/build-The-Shape-of-Movies-Desktop_Qt_5_12_6_MinGW_32_bit-Release/CMakeFiles/rebuild_cache.dir
