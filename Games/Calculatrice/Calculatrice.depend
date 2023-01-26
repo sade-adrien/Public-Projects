@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1434902348 source:c:\users\goubet3\desktop\calculatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"main.h"
+
+1434902249 c:\users\goubet3\desktop\calculatrice\main.h
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1434993666 source:c:\adrien\programmation\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"main.h"
+
+1434991846 c:\adrien\programmation\pendu\main.h
+
+1435006914 source:f:\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"main.h"
+
+1435005786 f:\pendu\main.h
+
+1435103676 source:f:\pendu\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"main.h"
+
+1435102216 f:\pendu\pendu\main.h
+
+1435170186 source:c:\users\adrien\desktop\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"main.h"
+
+1435169828 c:\users\adrien\desktop\pendu\main.h
+
