@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adriensade/Documents/2A ENPC/PRALG/TP7-Villes/villes/isotopo.cpp
+iostream
+-
+string
+-
+vector
+-
+ctime
+-
+cstdlib
+-
+map
+-
+math.h
+-
+town.h
+/Users/adriensade/Documents/2A ENPC/PRALG/TP7-Villes/villes/town.h
+
+/Users/adriensade/Documents/2A ENPC/PRALG/TP7-Villes/villes/point2d.h
+iostream
+-
+
+/Users/adriensade/Documents/2A ENPC/PRALG/TP7-Villes/villes/town.h
+string
+-
+vector
+-
+utility
+-
+iostream
+-
+point2d.h
+/Users/adriensade/Documents/2A ENPC/PRALG/TP7-Villes/villes/point2d.h
+
